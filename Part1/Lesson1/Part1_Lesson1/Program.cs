@@ -114,8 +114,6 @@ namespace Part1_Lesson1
             double distance = Math.Sqrt(Math.Pow(clongitude - clatitude, 2) + Math.Pow(longitude - latitude, 2));
             return distance;
         }
-
-       
     }
 
     public class CustomMethods
