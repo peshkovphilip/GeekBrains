@@ -108,6 +108,7 @@ namespace Part1_Lesson1
             #endregion
         }
 
+        // additional method 
         static double GetDistance(float latitude, float longitude, float clatitude, float clongitude)
         {
             double distance = Math.Sqrt(Math.Pow(clongitude - clatitude, 2) + Math.Pow(longitude - latitude, 2));
