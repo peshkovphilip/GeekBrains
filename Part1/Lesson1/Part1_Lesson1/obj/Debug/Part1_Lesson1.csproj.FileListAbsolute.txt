@@ -1,0 +1,6 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\bin\Debug\Part1_Lesson1.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\bin\Debug\Part1_Lesson1.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\bin\Debug\Part1_Lesson1.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\obj\Debug\Part1_Lesson1.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\obj\Debug\Part1_Lesson1.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson1\Part1_Lesson1\obj\Debug\Part1_Lesson1.pdb
