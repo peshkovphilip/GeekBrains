@@ -1,0 +1,6 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\bin\Debug\MyLib.dll
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\bin\Debug\MyLib.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\obj\Debug\MyLib.dll
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\obj\Debug\MyLib.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache

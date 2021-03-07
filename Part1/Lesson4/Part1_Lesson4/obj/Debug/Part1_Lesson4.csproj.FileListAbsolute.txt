@@ -1,0 +1,12 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\Part1_Lesson4.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\Part1_Lesson4.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\Part1_Lesson4.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\obj\Debug\Part1_Lesson4.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\obj\Debug\Part1_Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\obj\Debug\Part1_Lesson4.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\obj\Debug\Part1_Lesson4.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\MyLib.dll
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\MyLib.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\obj\Debug\Part1_Lesson4.csproj.CopyComplete
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\Auth.txt
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson4\Part1_Lesson4\bin\Debug\NewArray.txt
