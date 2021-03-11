@@ -1,0 +1,9 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\bin\Debug\Part1_lesson5.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\bin\Debug\Part1_lesson5.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\bin\Debug\Part1_lesson5.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\obj\Debug\Part1_lesson5.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\obj\Debug\Part1_lesson5.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\obj\Debug\Part1_lesson5.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\obj\Debug\Part1_lesson5.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_lesson5\Part1_lesson5\bin\Debug\SampleText.txt
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson5\Part1_Lesson5\Part1_lesson5\bin\Debug\Questions.txt

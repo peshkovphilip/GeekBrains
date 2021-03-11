@@ -214,6 +214,12 @@ namespace Part1_Lesson4
         //Например, для массива из пяти элементов: 6; 2; 9; –3; 6 ответ — 2.
         static void SubProgram1()
         {
+            //int[] array1 = { 14, -2, -3, 2548, 999, -5436, 9281, -3267, -144, -632, -808, 4156, 505, 44, 79, -87, -5, 909, 215, -3463 };
+            //MyArray newarr = new MyArray(array1);
+            //Console.WriteLine("Current array:");
+            //Console.WriteLine(newarr);
+            //Console.WriteLine($"Pairs found: {newarr.Division()}");
+
             int[] arr = new int[20];
             int pair = 0;
             string text = "";
