@@ -1,0 +1,10 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\bin\Debug\Part1_Lesson7.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\bin\Debug\Part1_Lesson7.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\bin\Debug\Part1_Lesson7.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.Doubler.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.Properties.Resources.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.csproj.GenerateResource.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7\obj\Debug\Part1_Lesson7.pdb

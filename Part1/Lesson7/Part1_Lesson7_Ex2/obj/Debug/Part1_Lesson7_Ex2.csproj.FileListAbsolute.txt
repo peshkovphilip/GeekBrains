@@ -1,0 +1,9 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.Form1.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.Properties.Resources.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.csproj.GenerateResource.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\bin\Debug\Part1_Lesson7_Ex2.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\bin\Debug\Part1_Lesson7_Ex2.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\bin\Debug\Part1_Lesson7_Ex2.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson7\Part1_Lesson7_Ex2\obj\Debug\Part1_Lesson7_Ex2.pdb
