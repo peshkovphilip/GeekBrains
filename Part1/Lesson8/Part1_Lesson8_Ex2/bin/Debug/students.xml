@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <lastName>Bolduin</lastName>
+    <firstName>Aleck</firstName>
+    <university>Harvard</university>
+    <faculty>IT</faculty>
+    <course>2</course>
+    <department>Math</department>
+    <group>2</group>
+    <city>New York</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Parker</lastName>
+    <firstName>Jesseca</firstName>
+    <university>MIT</university>
+    <faculty>IT</faculty>
+    <course>3</course>
+    <department>Math</department>
+    <group>1</group>
+    <city>Los Angeles</city>
+    <age>34</age>
+  </Student>
+  <Student>
+    <lastName>Gates</lastName>
+    <firstName>Bill</firstName>
+    <university>Boston Dynamics</university>
+    <faculty>IT</faculty>
+    <course>5</course>
+    <department>Robotic</department>
+    <group>3</group>
+    <city>Boston</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>DaVinchi</lastName>
+    <firstName>Leonardo</firstName>
+    <university>The theater of art</university>
+    <faculty>Art</faculty>
+    <course>2</course>
+    <department>Naturalism</department>
+    <group>2</group>
+    <city>Florence</city>
+    <age>26</age>
+  </Student>
+  <Student>
+    <lastName>Rurk</lastName>
+    <firstName>Mikki</firstName>
+    <university>UFC</university>
+    <faculty>Fighting</faculty>
+    <course>1</course>
+    <department>Without rules</department>
+    <group>3</group>
+    <city>Colorado</city>
+    <age>30</age>
+  </Student>
+  <Student>
+    <lastName>Senna</lastName>
+    <firstName>Aerton</firstName>
+    <university>Driver college</university>
+    <faculty>Racing</faculty>
+    <course>5</course>
+    <department>Formula 1</department>
+    <group>3</group>
+    <city>Paris</city>
+    <age>20</age>
+  </Student>
+  <Student>
+    <lastName>Jagger</lastName>
+    <firstName>Mick</firstName>
+    <university>MHAT</university>
+    <faculty>Music</faculty>
+    <course>5</course>
+    <department>Guitar</department>
+    <group>3</group>
+    <city>Nebraska</city>
+    <age>56</age>
+  </Student>
+</ArrayOfStudent>

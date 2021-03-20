@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>The capital of Great Britan is London?</Text>
+    <IsTrue>true</IsTrue>
+  </Question>
+  <Question>
+    <Text>3 + 19 / 3 = 7 ?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>The hummingbird is the insect?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>River Thames flows in France?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>Is a day longer on Jupiter than on Earth?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>Is Fiskaris a Swedish company?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>Facebook founder name Mark?</Text>
+    <IsTrue>true</IsTrue>
+  </Question>
+<Question>
+    <Text>Is 1000 centimeters 1 meter?</Text>
+    <IsTrue>false</IsTrue>
+  </Question>
+<Question>
+    <Text>Does Apple pay stock dividends?</Text>
+    <IsTrue>true</IsTrue>
+  </Question>
+</ArrayOfQuestion>
