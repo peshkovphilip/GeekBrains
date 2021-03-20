@@ -1,0 +1,13 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\bin\Debug\Part1_Lesson8.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\bin\Debug\Part1_Lesson8.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\bin\Debug\Part1_Lesson8.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.Properties.Resources.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.csproj.GenerateResource.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.formAbout.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.formEditor.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\obj\Debug\Part1_Lesson8.formMain.resources
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8\bin\Debug\default.xml

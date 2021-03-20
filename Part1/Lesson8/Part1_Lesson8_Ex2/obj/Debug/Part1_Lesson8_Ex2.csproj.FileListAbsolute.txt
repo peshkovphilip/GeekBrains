@@ -1,0 +1,8 @@
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\bin\Debug\Part1_Lesson8_Ex2.exe.config
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\bin\Debug\Part1_Lesson8_Ex2.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\bin\Debug\Part1_Lesson8_Ex2.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\obj\Debug\Part1_Lesson8_Ex2.csprojAssemblyReference.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\obj\Debug\Part1_Lesson8_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\obj\Debug\Part1_Lesson8_Ex2.exe
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\obj\Debug\Part1_Lesson8_Ex2.pdb
+C:\Users\master01\Desktop\GeekBrains\GeekBrains\Part1\Lesson8\Part1_Lesson8_Ex2\bin\Debug\students.csv
